@@ -8,7 +8,7 @@ A modern personal portfolio website built to showcase my web development project
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./screenshot.png)
+![Portfolio Screenshot](./assets/screenshot.png)
 
 ## 🚀 Features
 
