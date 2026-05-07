@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "predeploy": "npm run build",
-    "install": "gh-pages -d dist"
+    "install": "gh-pages -d dist",
+    "test": "123"
   },
   "dependencies": {
     "next": "15.3.4",
